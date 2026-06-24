@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋, I'm Onkar Nagul<br><br>🎓 Pre-Final Year Computer Science Engineering Student<br><br>💡 Passionate about Full-Stack Development, Cloud Computing, and AI<br><br>🚀 Building projects like:<br>- MyClinic (Healthcare Management Platform)<br>- Placement Preparation Guide<br>- AI Chatbot Applications<br><br>🛠️ Tech Stack:<br>Java • C++ • JavaScript • TypeScript • React • Node.js • MongoDB • Supabase • SQL<br><br>🏆 9.86 CGPA | Technical Coordinator | Hackathon Participant<br><br>📚 Solved 100+ DSA Problems on LeetCode<br><br>🌟 Always learning, building, and improving.
+# Hi there 👋, I'm Onkar Nagul<br><br>🎓 Pre-Final Year Computer Science Engineering Student<br><br>💡 Passionate about Full-Stack Development, Cloud Computing, and AI<br><br>🚀 Building projects like:<br>- Placement Preparation Guide<br>- AI Chatbot Applications<br><br>🛠️ Tech Stack:<br>Java • C++ • JavaScript • TypeScript • React • Node.js • MongoDB • Supabase • SQL<br><br>🏆 9.86 CGPA | Technical Coordinator | Hackathon Participant<br><br>📚 Solved 100+ DSA Problems on LeetCode<br><br>🌟 Always learning, building, and improving.
 
 
 ## 🌐 Socials:
